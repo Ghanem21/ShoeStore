@@ -1,3 +1,25 @@
 <resources>
     <string name="app_name">ShoeStore</string>
+    <string name="shoe_store">Shoe Store</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="log_in">Log in</string>
+    <string name="create_account">Create account</string>
+    <string name="welcome_to">Welcome to</string>
+    <string name="next">Next</string>
+    <string name="instructions">Instructions</string>
+    <string name="instructions_details">The shoe listing page will show the list of shoes and show a button for adding a new shoe, while the detail page will be for adding a shoe entry. All entries will be saved only as long as the app is running.</string>
+    <string name="name" >Name</string>
+    <string name="Company">Company</string>
+    <string name="Size">Size</string>
+    <string name="Note">Note</string>
+    <string name="description">description</string>
+    <string name="cancel">cancel</string>
+    <string name="Save">Save</string>
+
+    <string name="name_format">Name: %s</string>
+    <string name="size_format">Size: %s</string>
+    <string name="company_format">Company: %s</string>
+    <string name="description_format">Description: %s</string>
+
 </resources>

@@ -16,4 +16,21 @@
 
     <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
 
+    <style name="TextHead">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">?attr/colorPrimary</item>
+        <item name="android:textSize">@dimen/_24ssp</item>
+    </style>
+
+    <style name="textBody">
+        <item name="android:layout_marginTop">@dimen/_16sdp</item>
+        <item name="android:textSize">@dimen/_24ssp</item>
+    </style>
+
+    <style name="greenButton" parent="Widget.AppCompat.Button.Colored">
+        <item name="android:layout_marginTop">@dimen/_16sdp</item>
+        <item name="android:background">?attr/colorPrimary</item>
+    </style>
+
 </resources>
